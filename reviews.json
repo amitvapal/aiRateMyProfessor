@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Great teacher, explains concepts well but can be a bit strict on grading."
+      },
+      {
+        "professor": "Dr. Jane Doe",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Amazing professor! Very approachable and makes complex topics easy to understand."
+      },
+      {
+        "professor": "Prof. Albert Jones",
+        "subject": "Computer Science",
+        "stars": 3,
+        "review": "Lectures are informative but tend to be dry. Assignments are challenging."
+      },
+      {
+        "professor": "Dr. Emily Brown",
+        "subject": "History",
+        "stars": 2,
+        "review": "Not very engaging. Lectures can be boring and exams are tough."
+      },
+      {
+        "professor": "Prof. Michael Green",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Excellent teacher with a deep understanding of the subject. Highly recommended!"
+      },
+      {
+        "professor": "Dr. Sarah White",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "The material is challenging, and the professor's explanations could be clearer."
+      },
+      {
+        "professor": "Dr. Robert Black",
+        "subject": "English",
+        "stars": 4,
+        "review": "Great lecturer with insightful discussions. However, the reading load is heavy."
+      },
+      {
+        "professor": "Prof. David Johnson",
+        "subject": "Economics",
+        "stars": 5,
+        "review": "Very engaging and knowledgeable. Makes economics interesting."
+      },
+      {
+        "professor": "Dr. Linda Clark",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Engaging lectures, but exams can be difficult."
+      },
+      {
+        "professor": "Dr. Christopher Adams",
+        "subject": "Sociology",
+        "stars": 3,
+        "review": "Average teaching style. Could use more interactive methods."
+      },
+      {
+        "professor": "Prof. Nancy Lee",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Incredible professor. Deep thinker and excellent at explaining complex ideas."
+      },
+      {
+        "professor": "Dr. Mark Robinson",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Very knowledgeable and encourages class participation."
+      },
+      {
+        "professor": "Dr. Patricia Walker",
+        "subject": "Art History",
+        "stars": 3,
+        "review": "Interesting subject matter, but the lectures can be monotonous."
+      },
+      {
+        "professor": "Prof. George King",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Engaging and passionate about the subject. Highly recommend!"
+      },
+      {
+        "professor": "Dr. Barbara Scott",
+        "subject": "Geography",
+        "stars": 2,
+        "review": "Not very clear in her explanations. Class material is difficult to follow."
+      },
+      {
+        "professor": "Prof. Kevin Young",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Solid professor with good examples, but the pace can be fast."
+      },
+      {
+        "professor": "Dr. Karen Martin",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Exceptional professor with a great teaching style. Makes learning fun."
+      },
+      {
+        "professor": "Dr. Richard Wilson",
+        "subject": "Environmental Science",
+        "stars": 3,
+        "review": "The content is interesting, but the lectures are somewhat dry."
+      },
+      {
+        "professor": "Prof. Elizabeth Evans",
+        "subject": "Astronomy",
+        "stars": 4,
+        "review": "Fascinating subject and the professor is very passionate about it."
+      },
+      {
+        "professor": "Dr. Brian Turner",
+        "subject": "Classical Studies",
+        "stars": 5,
+        "review": "Excellent professor. Makes ancient history come alive in his lectures."
+      }
+    ]
+  }
+  
